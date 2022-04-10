@@ -1,1 +1,1 @@
-# s6nan.github.io
+by s6nan or slexod
